@@ -1,9 +1,9 @@
 # <p align="center"> Learn-Python
 <p align="center">Learn Python By Creating Knowledge Base For Others
 <p align="center">
-    <a align="center" href="foreword.md">Foreword</a> |
-    <a style="text-align: center;" href="support.md">Support Section</a> | 
-    <a style="text-align: center;" href="code.md">Coding Section</a>
+    <a href="foreword.md">Foreword</a> |
+    <a href="support.md">Support Section</a> | 
+    <a href="code.md">Coding Section</a>
 </p>
 
 
