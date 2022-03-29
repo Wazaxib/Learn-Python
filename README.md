@@ -18,4 +18,5 @@ Just Me, Myself and I
 
 
 **TBC...**
-[test](foreword.md)
+
+[Foreword](foreword.md)
