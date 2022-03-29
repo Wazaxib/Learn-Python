@@ -1,5 +1,6 @@
-# <p align="center">WELCOME
-<div style="text-align: justify">
+# <p align="center">WELCOME</p>
+
+<div align=justify>
 First things first. Anybody can learn how to code. Anybody can learn how to
 create things. We all just have our own timetables that others usually don't
 take into account and that's where the frustrations are coming from.
