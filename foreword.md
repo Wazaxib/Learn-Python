@@ -1,5 +1,5 @@
 # <p align="center">WELCOME
-
+<div style="text-align: justify">
 First things first. Anybody can learn how to code. Anybody can learn how to
 create things. We all just have our own timetables that others usually don't
 take into account and that's where the frustrations are coming from.
@@ -22,3 +22,4 @@ At the end of the day, it's your choice to, for instance, learn git and
 always have a backup. I recommend it, but its up to you.
 
 That's it for now, this is only a first draft. 
+</div>
