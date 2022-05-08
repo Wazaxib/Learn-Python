@@ -27,5 +27,7 @@
 <p align="center">Just Me, Myself and I</p>
 
 ---
+In case anyone comeas across this project, please note that it has not been abandonded. It is unfortunate that other commitments have not left any time for me to cotinue with this project. It will resume, hopefully, within the next few weeks.
+---
 **TBC...**
 
